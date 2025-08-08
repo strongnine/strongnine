@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋About Me
+## 👋 About Me
 
 - Nickname：strongnine
 - Hometown: Guangdong Province in China
@@ -23,7 +23,33 @@ Here are some ideas to get you started:
    - Undergraduate (2016.09-2020.06): Mechanical & Electronic Engineering, Guangdong University of Technology
    - Postgraduate (2020.9-2023.06): Information Science, East China University of Science and Technology
 
-## 📈Statistics
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=orange)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=orange)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=orange)
+
+![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=c&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Lang-Julia-informational?style=flat&logo=julia&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Lang-Make-informational?style=flat&logo=cmake&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Lang-CMake-informational?style=flat&logo=cmake&logoColor=white&color=orange)
+
+![](https://img.shields.io/badge/C++-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Python-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Python-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Python-ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Python-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=orange)
+
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=orange)
+
+pycharm
+
+## 📈 Statistics
 
 <div align="center">
 <a href="https://github.com/strongnine">
