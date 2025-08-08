@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=c&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Lang-Julia-informational?style=flat&logo=julia&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Lang-Make-informational?style=flat&logo=cmake&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Lang-CMake-informational?style=flat&logo=cmake&logoColor=white&color=orange)
 
 ![](https://img.shields.io/badge/C++-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=orange)
@@ -46,6 +44,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&logoColor=white&color=orange)
 
 pycharm
 
