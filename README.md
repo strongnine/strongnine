@@ -46,8 +46,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&logoColor=white&color=orange)
 
-pycharm
-
 ## 📈 Statistics
 
 <div align="center">
